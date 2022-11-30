@@ -41,7 +41,7 @@
   * {box-sizing: border-box} */
   
   /* Full-width input fields */
-  .btn {
+  .foo {
     background: gainsboro;
     width: 65%;
     border-radius: 18px;
@@ -114,8 +114,7 @@
     border-radius: 10px;
     width: 90%;
     background: blue;
-    
-  .hhh{
+  .poo{
     text-transform: display: display: ;;;
   }
   }

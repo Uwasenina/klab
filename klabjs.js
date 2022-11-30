@@ -14,7 +14,7 @@ const item = [
   item.forEach((Element) => {
     cost_item .push(Element.price);
   });
-  costs.sort((a, b) => a - b);
+  cost_item .sort((a, b) => a - b);
   
   //   Object of cheapest product
   
